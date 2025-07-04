@@ -118,17 +118,20 @@
 
 <table align="center" cellpadding="10" cellspacing="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Berkansevil&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width="320" />
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Berkansevil&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width="500" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkansevil&theme=tokyonight" alt="GitHub Streak" width="320" />
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkansevil&theme=tokyonight" alt="GitHub Streak" width="390" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkansevil&layout=compact&theme=tokyonight" alt="Top Languages" width="320" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkansevil&layout=compact&theme=tokyonight" alt="Top Languages" width="390" />
     </td>
   </tr>
 </table>
+
 
 ---
 
