@@ -1,4 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&multiline=true&height=130&lines=Hi%2C+I'm+Berkan+SEVİL+%F0%9F%91%8B;Java+Back-End+Developer;Spring+Boot+%7C+Microservices+%7C+PostgreSQL)
+### 👋 Welcome
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=0e75b6&background=00000000&center=true&multiline=true&height=140&lines=Hi%2C+I'm+Berkan+SEVIL+%F0%9F%91%8B;Java+Back-End+Developer;Spring+Boot;Microservices;)
+
+
 
 
 
@@ -9,21 +13,29 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I’m a **Back-End Developer** with hands-on experience in developing scalable and maintainable applications using **Java**, **Spring Boot**, and **Microservices**.
-- 🔧 I've worked on real-world systems involving **authentication (JWT, Keycloak)**, **payment integrations (Stripe)**, and **asynchronous communication (Kafka)**.
-- 🧩 I specialize in designing and developing **RESTful APIs**, applying **SOLID principles**, **clean architecture**, and following **TDD** practices.
+- 🎓 **Back-End Developer** with hands-on experience in developing scalable and maintainable applications using **Java**, **Spring Boot**, and **Microservices**.
+- 🔧 Worked on real-world systems involving authentication (**JWT, Keycloak**), payment integrations (**Stripe**), and asynchronous communication (**Kafka**).
+- 🧩 Specialized in designing and developing **RESTful APIs**, applying **SOLID principles**, **clean architecture**, and following **TDD** practices.
 - 🗃 Comfortable with **PostgreSQL**, **MySQL**, **Redis**, and creating relational data models using **JPA/Hibernate**.
-- 🚀 Passionate about performance optimization, database design, and building backends that are **secure, efficient, and developer-friendly**.
-- 📚 Currently learning more about:
+- 🚀 Passionate about performance optimization, database design, and building backends that are secure, efficient, and developer-friendly.
+- 📚 **Currently learning:**
   - 🔹 Distributed Systems & Service Mesh
   - 🔹 Kafka Streams & Event-Driven Architecture
-  - 🔹 Docker, CI/CD pipelines (GitHub Actions, Jenkins)
-- 💬 Ask me about:
-  - `Java`, `Spring Boot`, `PostgreSQL`, `Redis`
-  - `Microservices`, `Kafka`, `Clean Architecture`
-  - `REST API design`, `TDD`, `Security`
+  - 🔹 Docker, CI/CD pipelines (**GitHub Actions, Jenkins**)
+- 💬 **Ask me about:**
   
----
+  <br />
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Microservices-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge&logo=rest&logoColor=black" alt="REST API" />
+  <img src="https://img.shields.io/badge/TDD-FF69B4?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="TDD" />
+  <img src="https://img.shields.io/badge/Security-007ACC?style=for-the-badge&logo=security&logoColor=white" alt="Security" />
+
 
 ### 📫 Contact
 
@@ -104,13 +116,19 @@
 
 ### 📊 GitHub Stats & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Berkansevil&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkansevil&theme=tokyonight" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkansevil&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table align="center" cellpadding="10" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Berkansevil&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width="320" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkansevil&theme=tokyonight" alt="GitHub Streak" width="320" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkansevil&layout=compact&theme=tokyonight" alt="Top Languages" width="320" />
+    </td>
+  </tr>
+</table>
 
 ---
 
