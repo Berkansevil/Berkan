@@ -1,6 +1,6 @@
 ### 👋 Welcome
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=0e75b6&background=00000000&center=true&multiline=true&height=140&lines=Hi%2C+I'm+Berkan+SEVIL+%F0%9F%91%8B;Java+Back-End+Developer;Spring+Boot;Microservices;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=0e75b6&background=00000000&center=true&multiline=true&height=140&lines=Hi%2C+I'm+Berkan+SEVIL+%F0%9F%91%8B;Java+Back-End+Developer;Spring+Boot;Microservice;)
 
 
 
